@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda09</string>
+    <string name="Agenda" />
+    <string name="TituloAgenda">Agenda</string>
+    <string name="titulo_agregar">Agregar Persona</string>
+    <string name="hint_nombre">Agrega un nombre</string>
+    <string name="hint_apellido">Agrega un apellido</string>
+    <string name="hint_edad">Agrega una edad</string>
+    <string name="titulo_modificar">Editar persona</string>
+</resources>
